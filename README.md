@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jai+Dhuria;Frontend+%7C+ML+%7C+Data+Enthusiast;Designing+Ideas+%F0%9F%94%A5;Turning+them+into+Reality!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=900&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jai+Dhuria;Frontend+%7C+ML+%7C+Enthusiast;Designing+Ideas+%F0%9F%94%A5;Turning+them+into+Reality!+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <!-- BADGE -->
@@ -35,13 +35,13 @@
 
 ---
 
-### 📊 Top Languages Used:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaidhuria&layout=compact&theme=radical)
+### 🔥 GitHub Streak:
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaidhuria&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
 ---
 
 ### 🧨 Wild Side:
@@ -55,6 +55,4 @@
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jai-dhuria-aa0ab1311)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaidhuria002@gmail.com)
-
