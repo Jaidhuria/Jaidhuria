@@ -1,85 +1,108 @@
 <!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=950&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jai+Dhuria;Frontend+%7C+ML+Enthusiast;Building+and+Designing+Ideas;Turning+them+into+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=950&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Jai+Dhuria;MERN+Stack+Developer+%7C+ML+Enthusiast;Turning+Ideas+into+Code;Designing+and+Developing+the+Future!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome-Human!-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Welcome-Human!-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  🎓 <b>B.Tech @ VIT Bhopal | ML &amp; Frontend Enthusiast</b> <br/>
-  🧠 <b>Currently learning:</b> ML, Deep Learning, Frontend Stacks<br/>
-  🛠️ <b>Languages/Tech:</b> Python, HTML, CSS, JS, Tailwind, NumPy, Pandas, Seaborn<br/>
-  🎨 <b>Fusion of Design &amp; Dev:</b> 7+ years of creative experience<br/>
-  ✨ <b>Fun Fact:</b> Drawing, designing, developing &amp; debugging—sometimes all at once!<br/>
-</p>
-
----
-<h2 align="center">🛠️ My Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-FF6F61?style=for-the-badge&logo=javascript&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-5AAC44?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data Science-E1572B?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-005f73?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  🎓 <b>B.Tech @ VIT Bhopal | MERN Stack Developer &amp; ML Enthusiast</b> <br/>
+  🧠 <b>Currently Exploring:</b> Advanced React Patterns, Next.js, AI-Powered Web Apps<br/>
+  💻 <b>Tech Stack:</b> MongoDB, Express, React, Node.js, Tailwind, Python<br/>
+  🎨 <b>Design + Dev Fusion:</b> 7+ years crafting creative experiences<br/>
+  ✨ <b>Fun Fact:</b> I turn coffee ☕ into clean, scalable code &amp; sleek designs.<br/>
 </p>
 
 ---
 
-<h2 align="center">⚡ Wild Side</h2>
-<div align="center" style="font-size:1.1em;">
+<h2 align="center">⚙️ Tech Arsenal</h2>
 
-💥 <b>WARNING:</b> Reading this might cause dance breaks, caffeine cravings, and creative explosions!<br/>
-💻 Once coded a feature in my dreams — <i>sleep mode = productivity mode?</i><br/>
-🎨 Can design with one hand &amp; debug with the other. Multitasking: <i>maximum</i>.<br/>
-☕ Currently engineering an AI for the perfect coffee brew. Stay tuned!<br/>
+<div align="center">
+
+### 🖥️ Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+### 🧩 Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+### 🧠 Data Science & AI
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+### ☁️ Cloud & Tools
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
 </div>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
 <p align="center">
-  <a href="mailto:jaidhuria002@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add more contact/social buttons here if desired -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaiDhuria&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaiDhuria&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiDhuria&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+
+
+
+<h2 align="center">⚡ The Wild Side</h2>
+<div align="center" style="font-size:1.1em;">
+
+
+
+💥 <b>WARNING:</b> Prolonged exposure may cause a sudden urge to code!<br/>
+💻 Debugging is my cardio — caffeine is my superpower ⚡<br/>
+🎨 Design, code, deploy — repeat.<br/>
+☕ Currently building an AI that tells me when my coffee gets cold.<br/>
+
+</div>
+
+---
+
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:jaidhuria002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jaidhuria" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JaiDhuria" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio.jaidhuria.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaiDhuria&style=flat-square&color=6C63FF" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>“Building full-stack experiences that blend creativity with clean code.”</i>
 </p>
