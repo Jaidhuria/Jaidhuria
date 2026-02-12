@@ -77,7 +77,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://codolio.com/dhuriajai/" target="_blank">
+  <a href="https://codolio.com/profile/dhuriajai" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-View%20Profile-6C63FF?style=for-the-badge" />
 
   </a>
