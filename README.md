@@ -87,10 +87,9 @@ const jai: Developer = {
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
----
-## 📊 GitHub Stats
 
 
+## 📊GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=JaiDhuria&theme=tokyonight&hide_border=true" />
