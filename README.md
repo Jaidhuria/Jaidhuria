@@ -32,7 +32,6 @@
 const jai: Developer = {
   name:       "Jai Dhuria",
   education:  "B.Tech @ VIT Bhopal",
-  experience: "Summer Intern @ IIT Bhilai",
   roles:      ["MERN Stack Developer", "ML Enthusiast", "ML System Design Enthusiast"],
   currentlyLearning: ["ML System Design", "Advanced React Patterns", "Next.js", "AI-Powered Web Apps"],
   techStack:  ["MongoDB", "Express", "React", "Node.js", "Tailwind", "Python", "AWS"],
