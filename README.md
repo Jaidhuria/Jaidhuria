@@ -89,15 +89,6 @@ const jai: Developer = {
 </p>
 
 
-## 📊GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JaiDhuria&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiDhuria&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 ---
 
@@ -115,7 +106,7 @@ const jai: Developer = {
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-jaidhuria-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jaidhuria/)
 &nbsp;&nbsp;
-[![Codolio](https://img.shields.io/badge/Codolio-dhuriajai-6C63FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/dhuriajai)
+
 
 </div>
 
